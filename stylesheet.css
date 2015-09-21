@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
+body {
+	background-color: black;
+}
+
+header {	
+	text-align: center;
+}
+
+h1 {
+	font-family: Droid Sans, Sans;
+	color: yellow;
+}
+
+button {
+	margin: 0px 10px;
+	font-size: 14px;
+}
+
+main {
+	text-align: center;
+	font-family: Droid Sans, Sans;
+	color: yellow;
+	font-size: 20px;
+}
